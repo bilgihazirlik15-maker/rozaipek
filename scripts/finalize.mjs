@@ -31,6 +31,7 @@ const pages=report.files.filter(x=>x.type.includes('text/html'));
 const index=[];
 for(const p of pages){
   const file=path.join(root,p.file);let s=await fs.readFile(file,'utf8');
+  if(p.file==='hakkimizda.html') s=s.replaceAll('Hakkımda','Hakkımızda');
   for(const m of s.matchAll(/href="(\/\/fonts.googleapis.com[^"]+)"/g)){
     const local=await localize(m[1]);s=s.replaceAll(m[1],path.posix.relative(path.posix.dirname(p.file),local));
   }
