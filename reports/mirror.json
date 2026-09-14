@@ -1,0 +1,1009 @@
+{
+  "source": "https://www.rozaipek.com/",
+  "capturedAt": "2026-09-14T08:01:57.653Z",
+  "files": [
+    {
+      "url": "https://www.rozaipek.com/",
+      "file": "index.html",
+      "type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://www.rozaipek.com/images/nana-tekstil-s.png",
+      "file": "images/nana-tekstil-s.png",
+      "type": "image/png"
+    },
+    {
+      "url": "https://www.rozaipek.com/components/com_sppagebuilder/assets/css/animate.min.css",
+      "file": "components/com_sppagebuilder/assets/css/animate.min.css",
+      "type": "text/css"
+    },
+    {
+      "url": "https://www.rozaipek.com/components/com_sppagebuilder/assets/css/sppagebuilder.css",
+      "file": "components/com_sppagebuilder/assets/css/sppagebuilder.css",
+      "type": "text/css"
+    },
+    {
+      "url": "https://www.rozaipek.com/modules/mod_ap_smart_layerslider/assets/css/slider-pro.css",
+      "file": "modules/mod_ap_smart_layerslider/assets/css/slider-pro.css",
+      "type": "text/css"
+    },
+    {
+      "url": "https://www.rozaipek.com/modules/mod_ap_smart_layerslider/tmpl/themes/style4/style4.css",
+      "file": "modules/mod_ap_smart_layerslider/tmpl/themes/style4/style4.css",
+      "type": "text/css"
+    },
+    {
+      "url": "https://www.rozaipek.com/components/com_sppagebuilder/assets/css/magnific-popup.css",
+      "file": "components/com_sppagebuilder/assets/css/magnific-popup.css",
+      "type": "text/css"
+    },
+    {
+      "url": "https://www.rozaipek.com/templates/flex/css/bootstrap.min.css",
+      "file": "templates/flex/css/bootstrap.min.css",
+      "type": "text/css"
+    },
+    {
+      "url": "https://www.rozaipek.com/templates/flex/css/font-awesome.min.css",
+      "file": "templates/flex/css/font-awesome.min.css",
+      "type": "text/css"
+    },
+    {
+      "url": "https://www.rozaipek.com/templates/flex/css/fa-v4-shims.css",
+      "file": "templates/flex/css/fa-v4-shims.css",
+      "type": "text/css"
+    },
+    {
+      "url": "https://www.rozaipek.com/templates/flex/css/legacy.css",
+      "file": "templates/flex/css/legacy.css",
+      "type": "text/css"
+    },
+    {
+      "url": "https://www.rozaipek.com/templates/flex/css/template.css",
+      "file": "templates/flex/css/template.css",
+      "type": "text/css"
+    },
+    {
+      "url": "https://www.rozaipek.com/templates/flex/css/presets/preset8.css",
+      "file": "templates/flex/css/presets/preset8.css",
+      "type": "text/css"
+    },
+    {
+      "url": "https://www.rozaipek.com/media/jui/js/jquery.min.js",
+      "file": "media/jui/js/jquery.min.js",
+      "type": "application/javascript"
+    },
+    {
+      "url": "https://www.rozaipek.com/media/jui/js/jquery-noconflict.js",
+      "file": "media/jui/js/jquery-noconflict.js",
+      "type": "application/javascript"
+    },
+    {
+      "url": "https://www.rozaipek.com/media/jui/js/jquery-migrate.min.js",
+      "file": "media/jui/js/jquery-migrate.min.js",
+      "type": "application/javascript"
+    },
+    {
+      "url": "https://www.rozaipek.com/components/com_sppagebuilder/assets/js/jquery.parallax.js",
+      "file": "components/com_sppagebuilder/assets/js/jquery.parallax.js",
+      "type": "application/javascript"
+    },
+    {
+      "url": "https://www.rozaipek.com/components/com_sppagebuilder/assets/js/sppagebuilder.js",
+      "file": "components/com_sppagebuilder/assets/js/sppagebuilder.js",
+      "type": "application/javascript"
+    },
+    {
+      "url": "https://www.rozaipek.com/modules/mod_ap_smart_layerslider/assets/js/jquery.sliderPro.packed.js",
+      "file": "modules/mod_ap_smart_layerslider/assets/js/jquery.sliderPro.packed.js",
+      "type": "application/javascript"
+    },
+    {
+      "url": "https://www.rozaipek.com/components/com_sppagebuilder/assets/js/jquery.magnific-popup.min.js",
+      "file": "components/com_sppagebuilder/assets/js/jquery.magnific-popup.min.js",
+      "type": "application/javascript"
+    },
+    {
+      "url": "https://www.rozaipek.com/templates/flex/js/bootstrap.min.js",
+      "file": "templates/flex/js/bootstrap.min.js",
+      "type": "application/javascript"
+    },
+    {
+      "url": "https://www.rozaipek.com/templates/flex/js/SmoothScroll-1.4.9.js",
+      "file": "templates/flex/js/SmoothScroll-1.4.9.js",
+      "type": "application/javascript"
+    },
+    {
+      "url": "https://www.rozaipek.com/templates/flex/js/jquery.easing.min.js",
+      "file": "templates/flex/js/jquery.easing.min.js",
+      "type": "application/javascript"
+    },
+    {
+      "url": "https://www.rozaipek.com/templates/flex/js/main.js",
+      "file": "templates/flex/js/main.js",
+      "type": "application/javascript"
+    },
+    {
+      "url": "https://www.rozaipek.com/media/system/js/core.js",
+      "file": "media/system/js/core.js",
+      "type": "application/javascript"
+    },
+    {
+      "url": "https://www.rozaipek.com/images/f02.png",
+      "file": "images/f02.png",
+      "type": "image/png"
+    },
+    {
+      "url": "https://www.rozaipek.com/eng/",
+      "file": "eng/index.html",
+      "type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://www.rozaipek.com/images/f01.png",
+      "file": "images/f01.png",
+      "type": "image/png"
+    },
+    {
+      "url": "https://www.rozaipek.com/images/nana-logo.png",
+      "file": "images/nana-logo.png",
+      "type": "image/png"
+    },
+    {
+      "url": "https://www.rozaipek.com/hakkimizda.html",
+      "file": "hakkimizda.html",
+      "type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://www.rozaipek.com/urunler/gr01-tekli-dugume-modeli.html",
+      "file": "urunler/gr01-tekli-dugume-modeli.html",
+      "type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://www.rozaipek.com/urunler/gr01a-ciftli-dugume-modeli.html",
+      "file": "urunler/gr01a-ciftli-dugume-modeli.html",
+      "type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://www.rozaipek.com/urunler/gr01-b-yeni-ciftli-dugume-modeli.html",
+      "file": "urunler/gr01-b-yeni-ciftli-dugume-modeli.html",
+      "type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://www.rozaipek.com/urunler/gr02-kisa-ciftli.html",
+      "file": "urunler/gr02-kisa-ciftli.html",
+      "type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://www.rozaipek.com/urunler/r-g03-ciftli-gergi-bandi.html",
+      "file": "urunler/r-g03-ciftli-gergi-bandi.html",
+      "type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://www.rozaipek.com/urunler/gr04-tekli-gergi-bandi.html",
+      "file": "urunler/gr04-tekli-gergi-bandi.html",
+      "type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://www.rozaipek.com/urunler/gr06-ciftli-gergi-canta-modeli.html",
+      "file": "urunler/gr06-ciftli-gergi-canta-modeli.html",
+      "type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://www.rozaipek.com/urunler/gr07-cift-dugumeli-yastik-modeli.html",
+      "file": "urunler/gr07-cift-dugumeli-yastik-modeli.html",
+      "type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://www.rozaipek.com/urunler/gr08-ciftli-kancali-dugume-modeli.html",
+      "file": "urunler/gr08-ciftli-kancali-dugume-modeli.html",
+      "type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://www.rozaipek.com/urunler/sapli-igne.html",
+      "file": "urunler/sapli-igne.html",
+      "type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://www.rozaipek.com/urunler/gr12-ponpon.html",
+      "file": "urunler/gr12-ponpon.html",
+      "type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://www.rozaipek.com/urunler/dokuma-seritler.html",
+      "file": "urunler/dokuma-seritler.html",
+      "type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://www.rozaipek.com/urunler/kece.html",
+      "file": "urunler/kece.html",
+      "type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://www.rozaipek.com/video.html",
+      "file": "video.html",
+      "type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://www.rozaipek.com/iletisim.html",
+      "file": "iletisim.html",
+      "type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://www.rozaipek.com/modules/mod_ap_smart_layerslider/assets/images/blank.gif",
+      "file": "modules/mod_ap_smart_layerslider/assets/images/blank.gif",
+      "type": "image/gif"
+    },
+    {
+      "url": "https://www.rozaipek.com/images/ap-smart-layerslider/homepage/1.jpg",
+      "file": "images/ap-smart-layerslider/homepage/1.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://www.rozaipek.com/images/ap-smart-layerslider/homepage/3.jpg",
+      "file": "images/ap-smart-layerslider/homepage/3.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://www.rozaipek.com/images/ap-smart-layerslider/homepage/4.jpeg",
+      "file": "images/ap-smart-layerslider/homepage/4.jpeg",
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://www.rozaipek.com/eng/products/gr01-single-button-model.html",
+      "file": "eng/products/gr01-single-button-model.html",
+      "type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://www.rozaipek.com/eng/images/2025/01/19/single-button-model.jpg",
+      "file": "eng/images/2025/01/19/single-button-model.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://www.rozaipek.com/eng/products/new-double-model.html",
+      "file": "eng/products/new-double-model.html",
+      "type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://www.rozaipek.com/eng/images/2025/01/19/new-double-model.jpg",
+      "file": "eng/images/2025/01/19/new-double-model.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://www.rozaipek.com/eng/products/handle-needle.html",
+      "file": "eng/products/handle-needle.html",
+      "type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://www.rozaipek.com/eng/images/2021/12/05/11.jpg",
+      "file": "eng/images/2021/12/05/11.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://www.rozaipek.com/eng/products/ing1-ing2.html",
+      "file": "eng/products/ing1-ing2.html",
+      "type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://www.rozaipek.com/eng/images/2025/02/02/ing1-ing2.jpg",
+      "file": "eng/images/2025/02/02/ing1-ing2.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://www.rozaipek.com/eng/products/wooden-handle-semi-automatic-needle.html",
+      "file": "eng/products/wooden-handle-semi-automatic-needle.html",
+      "type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://www.rozaipek.com/eng/images/2025/02/02/gr09.jpg",
+      "file": "eng/images/2025/02/02/gr09.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://www.rozaipek.com/eng/products/gr01a-double-button-model.html",
+      "file": "eng/products/gr01a-double-button-model.html",
+      "type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://www.rozaipek.com/eng/images/2025/01/19/double-button-model.jpg",
+      "file": "eng/images/2025/01/19/double-button-model.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://www.rozaipek.com/eng/products/gr02-short-double.html",
+      "file": "eng/products/gr02-short-double.html",
+      "type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://www.rozaipek.com/eng/images/2025/01/21/double-button.jpg",
+      "file": "eng/images/2025/01/21/double-button.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://www.rozaipek.com/eng/products/buttons.html",
+      "file": "eng/products/buttons.html",
+      "type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://www.rozaipek.com/eng/images/2025/01/28/buttons.jpg",
+      "file": "eng/images/2025/01/28/buttons.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://www.rozaipek.com/eng/products/gr05-button-thread-with-hook.html",
+      "file": "eng/products/gr05-button-thread-with-hook.html",
+      "type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://www.rozaipek.com/eng/images/2025/02/02/gr11.jpg",
+      "file": "eng/images/2025/02/02/gr11.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://www.rozaipek.com/eng/products/gr12-pompon.html",
+      "file": "eng/products/gr12-pompon.html",
+      "type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://www.rozaipek.com/eng/images/2025/02/02/ponpon.jpg",
+      "file": "eng/images/2025/02/02/ponpon.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://www.rozaipek.com/eng/products/gr01-b-new-double-button-model.html",
+      "file": "eng/products/gr01-b-new-double-button-model.html",
+      "type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://www.rozaipek.com/eng/images/2025/01/19/new-double-button-model.jpg",
+      "file": "eng/images/2025/01/19/new-double-button-model.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://www.rozaipek.com/eng/products/gr04-single-tufting-tape.html",
+      "file": "eng/products/gr04-single-tufting-tape.html",
+      "type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://www.rozaipek.com/eng/images/2025/01/28/single-tifting-tapes.jpg",
+      "file": "eng/images/2025/01/28/single-tifting-tapes.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://www.rozaipek.com/eng/products/r-g03-double-tufting-tape.html",
+      "file": "eng/products/r-g03-double-tufting-tape.html",
+      "type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://www.rozaipek.com/eng/images/2021/12/05/5.jpg",
+      "file": "eng/images/2021/12/05/5.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://www.rozaipek.com/eng/products/gr07-double-button-pillow-model.html",
+      "file": "eng/products/gr07-double-button-pillow-model.html",
+      "type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://www.rozaipek.com/eng/images/2025/02/02/double-button-pillow-gr07.jpg",
+      "file": "eng/images/2025/02/02/double-button-pillow-gr07.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://www.rozaipek.com/eng/products/gr11-felt.html",
+      "file": "eng/products/gr11-felt.html",
+      "type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://www.rozaipek.com/eng/images/2025/02/02/felt.jpg",
+      "file": "eng/images/2025/02/02/felt.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://www.rozaipek.com/modules/mod_ap_smart_layerslider/assets/fonts/arrows/apicon.eot",
+      "file": "modules/mod_ap_smart_layerslider/assets/fonts/arrows/apicon.eot",
+      "type": "application/vnd.ms-fontobject"
+    },
+    {
+      "url": "https://www.rozaipek.com/modules/mod_ap_smart_layerslider/assets/fonts/arrows/apicon.woff",
+      "file": "modules/mod_ap_smart_layerslider/assets/fonts/arrows/apicon.woff",
+      "type": "font/woff"
+    },
+    {
+      "url": "https://www.rozaipek.com/modules/mod_ap_smart_layerslider/assets/fonts/arrows/apicon.ttf",
+      "file": "modules/mod_ap_smart_layerslider/assets/fonts/arrows/apicon.ttf",
+      "type": "font/ttf"
+    },
+    {
+      "url": "https://www.rozaipek.com/modules/mod_ap_smart_layerslider/assets/fonts/arrows/apicon.svg",
+      "file": "modules/mod_ap_smart_layerslider/assets/fonts/arrows/apicon.svg",
+      "type": "image/svg+xml"
+    },
+    {
+      "url": "https://www.rozaipek.com/templates/flex/fonts/fa-brands-400.woff",
+      "file": "templates/flex/fonts/fa-brands-400.woff",
+      "type": "font/woff"
+    },
+    {
+      "url": "https://www.rozaipek.com/templates/flex/fonts/fa-brands-400.ttf",
+      "file": "templates/flex/fonts/fa-brands-400.ttf",
+      "type": "font/ttf"
+    },
+    {
+      "url": "https://www.rozaipek.com/templates/flex/fonts/fa-regular-400.woff",
+      "file": "templates/flex/fonts/fa-regular-400.woff",
+      "type": "font/woff"
+    },
+    {
+      "url": "https://www.rozaipek.com/templates/flex/fonts/fa-regular-400.ttf",
+      "file": "templates/flex/fonts/fa-regular-400.ttf",
+      "type": "font/ttf"
+    },
+    {
+      "url": "https://www.rozaipek.com/templates/flex/fonts/fa-solid-900.woff",
+      "file": "templates/flex/fonts/fa-solid-900.woff",
+      "type": "font/woff"
+    },
+    {
+      "url": "https://www.rozaipek.com/templates/flex/fonts/fa-solid-900.ttf",
+      "file": "templates/flex/fonts/fa-solid-900.ttf",
+      "type": "font/ttf"
+    },
+    {
+      "url": "https://www.rozaipek.com/templates/flex/fonts/ap-arrows/ap-arrows.eot",
+      "file": "templates/flex/fonts/ap-arrows/ap-arrows.eot",
+      "type": "application/vnd.ms-fontobject"
+    },
+    {
+      "url": "https://www.rozaipek.com/templates/flex/fonts/ap-arrows/ap-arrows.woff",
+      "file": "templates/flex/fonts/ap-arrows/ap-arrows.woff",
+      "type": "font/woff"
+    },
+    {
+      "url": "https://www.rozaipek.com/templates/flex/fonts/ap-arrows/ap-arrows.ttf",
+      "file": "templates/flex/fonts/ap-arrows/ap-arrows.ttf",
+      "type": "font/ttf"
+    },
+    {
+      "url": "https://www.rozaipek.com/templates/flex/fonts/ap-arrows/ap-arrows.svg",
+      "file": "templates/flex/fonts/ap-arrows/ap-arrows.svg",
+      "type": "image/svg+xml"
+    },
+    {
+      "url": "https://www.rozaipek.com/templates/flex/fonts/Pe-icon-7-stroke.eot",
+      "file": "templates/flex/fonts/Pe-icon-7-stroke.eot",
+      "type": "application/vnd.ms-fontobject"
+    },
+    {
+      "url": "https://www.rozaipek.com/templates/flex/fonts/Pe-icon-7-stroke.woff",
+      "file": "templates/flex/fonts/Pe-icon-7-stroke.woff",
+      "type": "font/woff"
+    },
+    {
+      "url": "https://www.rozaipek.com/templates/flex/fonts/Pe-icon-7-stroke.ttf",
+      "file": "templates/flex/fonts/Pe-icon-7-stroke.ttf",
+      "type": "font/ttf"
+    },
+    {
+      "url": "https://www.rozaipek.com/templates/flex/fonts/Pe-icon-7-stroke.svg",
+      "file": "templates/flex/fonts/Pe-icon-7-stroke.svg",
+      "type": "image/svg+xml"
+    },
+    {
+      "url": "https://www.rozaipek.com/templates/flex/images/svgwhite.svg",
+      "file": "templates/flex/images/svgwhite.svg",
+      "type": "image/svg+xml"
+    },
+    {
+      "url": "https://www.rozaipek.com/templates/flex/images/loader.svg",
+      "file": "templates/flex/images/loader.svg",
+      "type": "image/svg+xml"
+    },
+    {
+      "url": "https://www.rozaipek.com/templates/flex/images/gmap-icon.svg",
+      "file": "templates/flex/images/gmap-icon.svg",
+      "type": "image/svg+xml"
+    },
+    {
+      "url": "https://www.rozaipek.com/templates/flex/images/cd-lateral-nav.svg",
+      "file": "templates/flex/images/cd-lateral-nav.svg",
+      "type": "image/svg+xml"
+    },
+    {
+      "url": "https://www.rozaipek.com/templates/flex/images/vm-loader.svg",
+      "file": "templates/flex/images/vm-loader.svg",
+      "type": "image/svg+xml"
+    },
+    {
+      "url": "https://www.rozaipek.com/templates/flex/images/empty.svg",
+      "file": "templates/flex/images/empty.svg",
+      "type": "image/svg+xml"
+    },
+    {
+      "url": "https://www.rozaipek.com/eng/images/nana-tekstil-s.png",
+      "file": "eng/images/nana-tekstil-s.png",
+      "type": "image/png"
+    },
+    {
+      "url": "https://www.rozaipek.com/eng/components/com_sppagebuilder/assets/css/animate.min.css",
+      "file": "eng/components/com_sppagebuilder/assets/css/animate.min.css",
+      "type": "text/css"
+    },
+    {
+      "url": "https://www.rozaipek.com/eng/components/com_sppagebuilder/assets/css/sppagebuilder.css",
+      "file": "eng/components/com_sppagebuilder/assets/css/sppagebuilder.css",
+      "type": "text/css"
+    },
+    {
+      "url": "https://www.rozaipek.com/eng/modules/mod_ap_smart_layerslider/assets/css/slider-pro.css",
+      "file": "eng/modules/mod_ap_smart_layerslider/assets/css/slider-pro.css",
+      "type": "text/css"
+    },
+    {
+      "url": "https://www.rozaipek.com/eng/modules/mod_ap_smart_layerslider/tmpl/themes/style4/style4.css",
+      "file": "eng/modules/mod_ap_smart_layerslider/tmpl/themes/style4/style4.css",
+      "type": "text/css"
+    },
+    {
+      "url": "https://www.rozaipek.com/eng/components/com_sppagebuilder/assets/css/magnific-popup.css",
+      "file": "eng/components/com_sppagebuilder/assets/css/magnific-popup.css",
+      "type": "text/css"
+    },
+    {
+      "url": "https://www.rozaipek.com/eng/templates/flex/css/bootstrap.min.css",
+      "file": "eng/templates/flex/css/bootstrap.min.css",
+      "type": "text/css"
+    },
+    {
+      "url": "https://www.rozaipek.com/eng/templates/flex/css/font-awesome.min.css",
+      "file": "eng/templates/flex/css/font-awesome.min.css",
+      "type": "text/css"
+    },
+    {
+      "url": "https://www.rozaipek.com/eng/templates/flex/css/fa-v4-shims.css",
+      "file": "eng/templates/flex/css/fa-v4-shims.css",
+      "type": "text/css"
+    },
+    {
+      "url": "https://www.rozaipek.com/eng/templates/flex/css/legacy.css",
+      "file": "eng/templates/flex/css/legacy.css",
+      "type": "text/css"
+    },
+    {
+      "url": "https://www.rozaipek.com/eng/templates/flex/css/template.css",
+      "file": "eng/templates/flex/css/template.css",
+      "type": "text/css"
+    },
+    {
+      "url": "https://www.rozaipek.com/eng/templates/flex/css/presets/preset8.css",
+      "file": "eng/templates/flex/css/presets/preset8.css",
+      "type": "text/css"
+    },
+    {
+      "url": "https://www.rozaipek.com/eng/media/jui/js/jquery.min.js",
+      "file": "eng/media/jui/js/jquery.min.js",
+      "type": "application/javascript"
+    },
+    {
+      "url": "https://www.rozaipek.com/eng/media/jui/js/jquery-noconflict.js",
+      "file": "eng/media/jui/js/jquery-noconflict.js",
+      "type": "application/javascript"
+    },
+    {
+      "url": "https://www.rozaipek.com/eng/media/jui/js/jquery-migrate.min.js",
+      "file": "eng/media/jui/js/jquery-migrate.min.js",
+      "type": "application/javascript"
+    },
+    {
+      "url": "https://www.rozaipek.com/eng/components/com_sppagebuilder/assets/js/jquery.parallax.js",
+      "file": "eng/components/com_sppagebuilder/assets/js/jquery.parallax.js",
+      "type": "application/javascript"
+    },
+    {
+      "url": "https://www.rozaipek.com/eng/components/com_sppagebuilder/assets/js/sppagebuilder.js",
+      "file": "eng/components/com_sppagebuilder/assets/js/sppagebuilder.js",
+      "type": "application/javascript"
+    },
+    {
+      "url": "https://www.rozaipek.com/eng/modules/mod_ap_smart_layerslider/assets/js/jquery.sliderPro.packed.js",
+      "file": "eng/modules/mod_ap_smart_layerslider/assets/js/jquery.sliderPro.packed.js",
+      "type": "application/javascript"
+    },
+    {
+      "url": "https://www.rozaipek.com/eng/components/com_sppagebuilder/assets/js/jquery.magnific-popup.min.js",
+      "file": "eng/components/com_sppagebuilder/assets/js/jquery.magnific-popup.min.js",
+      "type": "application/javascript"
+    },
+    {
+      "url": "https://www.rozaipek.com/eng/templates/flex/js/bootstrap.min.js",
+      "file": "eng/templates/flex/js/bootstrap.min.js",
+      "type": "application/javascript"
+    },
+    {
+      "url": "https://www.rozaipek.com/eng/templates/flex/js/SmoothScroll-1.4.9.js",
+      "file": "eng/templates/flex/js/SmoothScroll-1.4.9.js",
+      "type": "application/javascript"
+    },
+    {
+      "url": "https://www.rozaipek.com/eng/templates/flex/js/jquery.easing.min.js",
+      "file": "eng/templates/flex/js/jquery.easing.min.js",
+      "type": "application/javascript"
+    },
+    {
+      "url": "https://www.rozaipek.com/eng/templates/flex/js/main.js",
+      "file": "eng/templates/flex/js/main.js",
+      "type": "application/javascript"
+    },
+    {
+      "url": "https://www.rozaipek.com/eng/media/system/js/core.js",
+      "file": "eng/media/system/js/core.js",
+      "type": "application/javascript"
+    },
+    {
+      "url": "https://www.rozaipek.com/eng/images/f02.png",
+      "file": "eng/images/f02.png",
+      "type": "image/png"
+    },
+    {
+      "url": "https://www.rozaipek.com/eng/images/f01.png",
+      "file": "eng/images/f01.png",
+      "type": "image/png"
+    },
+    {
+      "url": "https://www.rozaipek.com/eng/images/nana-logo.png",
+      "file": "eng/images/nana-logo.png",
+      "type": "image/png"
+    },
+    {
+      "url": "https://www.rozaipek.com/eng/about-us.html",
+      "file": "eng/about-us.html",
+      "type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://www.rozaipek.com/eng/quality.html",
+      "file": "eng/quality.html",
+      "type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://www.rozaipek.com/eng/video.html",
+      "file": "eng/video.html",
+      "type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://www.rozaipek.com/eng/contact.html",
+      "file": "eng/contact.html",
+      "type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://www.rozaipek.com/eng/modules/mod_ap_smart_layerslider/assets/images/blank.gif",
+      "file": "eng/modules/mod_ap_smart_layerslider/assets/images/blank.gif",
+      "type": "image/gif"
+    },
+    {
+      "url": "https://www.rozaipek.com/eng/images/ap-smart-layerslider/homepage/2.jpg",
+      "file": "eng/images/ap-smart-layerslider/homepage/2.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://www.rozaipek.com/eng/images/ap-smart-layerslider/homepage/4.jpg",
+      "file": "eng/images/ap-smart-layerslider/homepage/4.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://www.rozaipek.com/eng/images/ap-smart-layerslider/homepage/slider-2.jpg",
+      "file": "eng/images/ap-smart-layerslider/homepage/slider-2.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://www.rozaipek.com/images/2021/12/07/nana-tekstil.jpg",
+      "file": "images/2021/12/07/nana-tekstil.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://www.rozaipek.com/images/2021/12/05/3.jpg",
+      "file": "images/2021/12/05/3.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://www.rozaipek.com/images/2021/12/05/4.jpg",
+      "file": "images/2021/12/05/4.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://www.rozaipek.com/images/2021/12/05/5.jpg",
+      "file": "images/2021/12/05/5.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://www.rozaipek.com/images/2021/12/05/2.jpg",
+      "file": "images/2021/12/05/2.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://www.rozaipek.com/images/2021/12/05/1.jpg",
+      "file": "images/2021/12/05/1.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://www.rozaipek.com/images/2021/12/05/12.jpg",
+      "file": "images/2021/12/05/12.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://www.rozaipek.com/images/2021/12/05/11.jpg",
+      "file": "images/2021/12/05/11.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://www.rozaipek.com/images/2021/12/05/8.jpg",
+      "file": "images/2021/12/05/8.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://www.rozaipek.com/images/2021/12/05/9.jpg",
+      "file": "images/2021/12/05/9.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://www.rozaipek.com/images/2021/12/20/tek-dugumeli.jpg",
+      "file": "images/2021/12/20/tek-dugumeli.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://www.rozaipek.com/images/2021/12/05/10.jpg",
+      "file": "images/2021/12/05/10.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://www.rozaipek.com/images/2021/12/05/13.jpg",
+      "file": "images/2021/12/05/13.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://www.rozaipek.com/images/2021/12/07/harita.jpg",
+      "file": "images/2021/12/07/harita.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://www.rozaipek.com/eng/images/2025/02/02/stipes.jpg",
+      "file": "eng/images/2025/02/02/stipes.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://www.rozaipek.com/eng/modules/mod_ap_smart_layerslider/assets/fonts/arrows/apicon.eot",
+      "file": "eng/modules/mod_ap_smart_layerslider/assets/fonts/arrows/apicon.eot",
+      "type": "application/vnd.ms-fontobject"
+    },
+    {
+      "url": "https://www.rozaipek.com/eng/modules/mod_ap_smart_layerslider/assets/fonts/arrows/apicon.woff",
+      "file": "eng/modules/mod_ap_smart_layerslider/assets/fonts/arrows/apicon.woff",
+      "type": "font/woff"
+    },
+    {
+      "url": "https://www.rozaipek.com/eng/modules/mod_ap_smart_layerslider/assets/fonts/arrows/apicon.ttf",
+      "file": "eng/modules/mod_ap_smart_layerslider/assets/fonts/arrows/apicon.ttf",
+      "type": "font/ttf"
+    },
+    {
+      "url": "https://www.rozaipek.com/eng/modules/mod_ap_smart_layerslider/assets/fonts/arrows/apicon.svg",
+      "file": "eng/modules/mod_ap_smart_layerslider/assets/fonts/arrows/apicon.svg",
+      "type": "image/svg+xml"
+    },
+    {
+      "url": "https://www.rozaipek.com/eng/templates/flex/fonts/fa-brands-400.woff",
+      "file": "eng/templates/flex/fonts/fa-brands-400.woff",
+      "type": "font/woff"
+    },
+    {
+      "url": "https://www.rozaipek.com/eng/templates/flex/fonts/fa-brands-400.ttf",
+      "file": "eng/templates/flex/fonts/fa-brands-400.ttf",
+      "type": "font/ttf"
+    },
+    {
+      "url": "https://www.rozaipek.com/eng/templates/flex/fonts/fa-regular-400.woff",
+      "file": "eng/templates/flex/fonts/fa-regular-400.woff",
+      "type": "font/woff"
+    },
+    {
+      "url": "https://www.rozaipek.com/eng/templates/flex/fonts/fa-regular-400.ttf",
+      "file": "eng/templates/flex/fonts/fa-regular-400.ttf",
+      "type": "font/ttf"
+    },
+    {
+      "url": "https://www.rozaipek.com/eng/templates/flex/fonts/fa-solid-900.woff",
+      "file": "eng/templates/flex/fonts/fa-solid-900.woff",
+      "type": "font/woff"
+    },
+    {
+      "url": "https://www.rozaipek.com/eng/templates/flex/fonts/fa-solid-900.ttf",
+      "file": "eng/templates/flex/fonts/fa-solid-900.ttf",
+      "type": "font/ttf"
+    },
+    {
+      "url": "https://www.rozaipek.com/eng/templates/flex/fonts/ap-arrows/ap-arrows.eot",
+      "file": "eng/templates/flex/fonts/ap-arrows/ap-arrows.eot",
+      "type": "application/vnd.ms-fontobject"
+    },
+    {
+      "url": "https://www.rozaipek.com/eng/templates/flex/fonts/ap-arrows/ap-arrows.woff",
+      "file": "eng/templates/flex/fonts/ap-arrows/ap-arrows.woff",
+      "type": "font/woff"
+    },
+    {
+      "url": "https://www.rozaipek.com/eng/templates/flex/fonts/ap-arrows/ap-arrows.ttf",
+      "file": "eng/templates/flex/fonts/ap-arrows/ap-arrows.ttf",
+      "type": "font/ttf"
+    },
+    {
+      "url": "https://www.rozaipek.com/eng/templates/flex/fonts/ap-arrows/ap-arrows.svg",
+      "file": "eng/templates/flex/fonts/ap-arrows/ap-arrows.svg",
+      "type": "image/svg+xml"
+    },
+    {
+      "url": "https://www.rozaipek.com/eng/templates/flex/fonts/Pe-icon-7-stroke.eot",
+      "file": "eng/templates/flex/fonts/Pe-icon-7-stroke.eot",
+      "type": "application/vnd.ms-fontobject"
+    },
+    {
+      "url": "https://www.rozaipek.com/eng/templates/flex/fonts/Pe-icon-7-stroke.woff",
+      "file": "eng/templates/flex/fonts/Pe-icon-7-stroke.woff",
+      "type": "font/woff"
+    },
+    {
+      "url": "https://www.rozaipek.com/eng/templates/flex/fonts/Pe-icon-7-stroke.ttf",
+      "file": "eng/templates/flex/fonts/Pe-icon-7-stroke.ttf",
+      "type": "font/ttf"
+    },
+    {
+      "url": "https://www.rozaipek.com/eng/templates/flex/fonts/Pe-icon-7-stroke.svg",
+      "file": "eng/templates/flex/fonts/Pe-icon-7-stroke.svg",
+      "type": "image/svg+xml"
+    },
+    {
+      "url": "https://www.rozaipek.com/eng/templates/flex/images/svgwhite.svg",
+      "file": "eng/templates/flex/images/svgwhite.svg",
+      "type": "image/svg+xml"
+    },
+    {
+      "url": "https://www.rozaipek.com/eng/templates/flex/images/loader.svg",
+      "file": "eng/templates/flex/images/loader.svg",
+      "type": "image/svg+xml"
+    },
+    {
+      "url": "https://www.rozaipek.com/eng/templates/flex/images/gmap-icon.svg",
+      "file": "eng/templates/flex/images/gmap-icon.svg",
+      "type": "image/svg+xml"
+    },
+    {
+      "url": "https://www.rozaipek.com/eng/templates/flex/images/cd-lateral-nav.svg",
+      "file": "eng/templates/flex/images/cd-lateral-nav.svg",
+      "type": "image/svg+xml"
+    },
+    {
+      "url": "https://www.rozaipek.com/eng/templates/flex/images/vm-loader.svg",
+      "file": "eng/templates/flex/images/vm-loader.svg",
+      "type": "image/svg+xml"
+    },
+    {
+      "url": "https://www.rozaipek.com/eng/templates/flex/images/empty.svg",
+      "file": "eng/templates/flex/images/empty.svg",
+      "type": "image/svg+xml"
+    },
+    {
+      "url": "https://www.rozaipek.com/eng/images/2021/12/07/nana-tekstil.jpg",
+      "file": "eng/images/2021/12/07/nana-tekstil.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://www.rozaipek.com/eng/images/2021/12/07/kalite-01.jpg",
+      "file": "eng/images/2021/12/07/kalite-01.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://www.rozaipek.com/eng/images/2021/12/07/kalite-02.jpg",
+      "file": "eng/images/2021/12/07/kalite-02.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://www.rozaipek.com/eng/images/2021/12/07/harita.jpg",
+      "file": "eng/images/2021/12/07/harita.jpg",
+      "type": "image/jpeg"
+    }
+  ],
+  "failures": [
+    {
+      "url": "https://fonts.googleapis.com/css?family=Open+Sans:300,300italic,regular,italic,600,600italic,700,700italic,800,800italic&subset=latin,latin-ext",
+      "error": "unable to verify the first certificate; if the root CA is installed locally, try running Node.js with --use-system-ca"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css?family=Raleway:100,100italic,200,200italic,300,300italic,regular,italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&subset=latin",
+      "error": "unable to verify the first certificate; if the root CA is installed locally, try running Node.js with --use-system-ca"
+    },
+    {
+      "url": "https://www.rozaipek.com/products/gr01-b-new-double-button-model.html",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://www.rozaipek.com/products/new-double-model.html",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://www.rozaipek.com/products/gr01a-double-button-model.html",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://www.rozaipek.com/products/gr01-single-button-model.html",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://www.rozaipek.com/products/r-g03-double-tufting-tape.html",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://www.rozaipek.com/products/buttons.html",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://www.rozaipek.com/products/handle-needle.html",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://www.rozaipek.com/products/gr04-single-tufting-tape.html",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://www.rozaipek.com/products/ing1-ing2.html",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://www.rozaipek.com/products/gr02-short-double.html",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://www.rozaipek.com/products/gr07-double-button-pillow-model.html",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://www.rozaipek.com/products/gr11-felt.html",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://www.rozaipek.com/products/wooden-handle-semi-automatic-needle.html",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://www.rozaipek.com/products/gr12-pompon.html",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://www.rozaipek.com/products/gr05-button-thread-with-hook.html",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://www.rozaipek.com/templates/flex/fonts/fonts/Pe-icon-7-stroke.eot",
+      "error": "HTTP 500"
+    },
+    {
+      "url": "https://www.rozaipek.com/eng/eng/",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://www.rozaipek.com/eng/index.html",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://www.rozaipek.com/eng/products/01-single-button-model.html",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://www.rozaipek.com/eng/iletisim.html",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://www.rozaipek.com/eng/eng/contact.html",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://www.rozaipek.com/eng/templates/flex/fonts/fonts/Pe-icon-7-stroke.eot",
+      "error": "HTTP 500"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "rozaipek",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Roza İpek web sitesinin ziyaretçilere açık sayfalarının bağımsız statik kopyası",
+  "scripts": {
+    "start": "node scripts/serve.mjs",
+    "mirror": "node --use-system-ca scripts/mirror.mjs && node --use-system-ca scripts/finalize.mjs && node scripts/check.mjs",
+    "check": "node scripts/check.mjs"
+  },
+  "engines": { "node": ">=24" }
+}

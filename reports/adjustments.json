@@ -1,0 +1,42 @@
+{
+  "localizedFonts": [
+    "assets/external/b5464e981ef07454.css",
+    "assets/external/71636995c33f25a3.ttf",
+    "assets/external/5fe05ee7a5b305e3.ttf",
+    "assets/external/b1fa3fa5a501966f.ttf",
+    "assets/external/60c54beb00f18efd.ttf",
+    "assets/external/08d846a8c3c5efde.ttf",
+    "assets/external/856a6a2879ee4c4d.ttf",
+    "assets/external/9d415806f0c20390.ttf",
+    "assets/external/5b476dbd21047931.ttf",
+    "assets/external/2c02c4598e4cb430.ttf",
+    "assets/external/c24de22a15adc0b4.ttf",
+    "assets/external/57bd87c1b9d30421.css",
+    "assets/external/d2b88f8064661101.ttf",
+    "assets/external/640185e28f0a7715.ttf",
+    "assets/external/a02b2058059c22dc.ttf",
+    "assets/external/484e76827dc98721.ttf",
+    "assets/external/a5c049a3a693d56f.ttf",
+    "assets/external/1a628389c344c31e.ttf",
+    "assets/external/f9f24f8ff51f90d1.ttf",
+    "assets/external/d92167ce1f3699db.ttf",
+    "assets/external/d8409ea78aa0243c.ttf",
+    "assets/external/a648797882f3fcc5.ttf",
+    "assets/external/4b683dd79bccb5c5.ttf",
+    "assets/external/2973b56f4f50c4fd.ttf",
+    "assets/external/0dbdd5048556689c.ttf",
+    "assets/external/46dc1817671adaf4.ttf",
+    "assets/external/cbacf63e1d54d3e4.ttf",
+    "assets/external/3cb2e7abbfd2bf7b.ttf",
+    "assets/external/c3eb9d1361e217a2.ttf",
+    "assets/external/244fa72d91c3b9f3.ttf"
+  ],
+  "fixedSourceLinks": {
+    "/eng/eng/": "/eng/index.html",
+    "/eng/eng/contact.html": "/eng/contact.html",
+    "/eng/iletisim.html": "/eng/contact.html",
+    "/eng/products/01-single-button-model.html": "/eng/products/gr01-single-button-model.html"
+  },
+  "staticSearch": true,
+  "externalVideoDependency": "YouTube; two source video slots have no video ID and are preserved as in source."
+}
