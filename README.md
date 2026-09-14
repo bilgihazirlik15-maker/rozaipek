@@ -6,6 +6,10 @@
 
 ## Çalıştırma
 
+Canlı site: https://bilgihazirlik15-maker.github.io/rozaipek/
+
+GitHub Pages, `.github/workflows/pages.yml` ile yalnızca `dist/` klasörünü yayımlar. `codex/rozaipek-site` dalına gönderilen her değişiklik doğrulanıp otomatik yayımlanır. Pages ayarındaki yayın kaynağı **GitHub Actions** olmalıdır; dalın kök klasörünü seçmek site yerine bu README dosyasını gösterir.
+
 Node.js 24 veya üstü ile:
 
 ```sh
