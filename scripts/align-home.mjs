@@ -22,5 +22,7 @@ if (!section.includes('home-product-grid')) {
   html = html.replace(sectionPattern, `<section id="section-id-1738515770626" class="sppb-section"><div class="sppb-row-container"><div class="home-product-grid">${ordered.join('')}</div></div></section>`);
 }
 if (!html.includes('assets/home-products.css')) html = html.replace('</head>', '<link rel="stylesheet" href="assets/home-products.css">\n</head>');
+if (!html.includes('assets/whatsapp-support.css')) html = html.replace('</head>', '<link rel="stylesheet" href="assets/whatsapp-support.css">\n</head>');
+if (!html.includes('class="whatsapp-support"')) html = html.replace('</body>', `<a class="whatsapp-support" href="https://wa.me/905323201707" target="_blank" rel="noopener noreferrer" aria-label="WhatsApp destek hattı: +90 532 320 17 07 (yeni sekmede açılır)"><i class="fab fa-whatsapp" aria-hidden="true"></i><span>WhatsApp Destek</span></a>\n</body>`);
 await fs.writeFile(file, html);
 console.log('Home products aligned in shared rows.');
