@@ -59,3 +59,4 @@ for(const p of report.files.filter(x=>x.type.includes('text/css'))){
 await fs.writeFile(path.join(root,'assets/search-index.json'),JSON.stringify(index));
 await fs.writeFile('reports/adjustments.json',JSON.stringify({localizedFonts:[...externals.values()],fixedSourceLinks:fixes,staticSearch:true,externalVideoDependency:'YouTube; two source video slots have no video ID and are preserved as in source.'},null,2));
 console.log(`Prepared ${pages.length} pages and ${externals.size} local font assets.`);
+await import('./align-home.mjs');

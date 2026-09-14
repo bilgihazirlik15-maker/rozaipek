@@ -1,0 +1,52 @@
+/* Shared rows keep long titles and deferred image loading from shifting cards. */
+#section-id-1738515770626 .home-product-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  column-gap: 30px;
+}
+#section-id-1738515770626 .home-product-grid > .sppb-addon-wrapper {
+  display: grid;
+  grid-template-rows: subgrid;
+  grid-row: span 2;
+  min-width: 0;
+  margin: 0 0 30px;
+}
+.home-product-grid > .sppb-addon-wrapper > div,
+.home-product-grid .sppb-addon-single-image {
+  display: contents;
+}
+.home-product-grid > .sppb-addon-wrapper > div::before,
+.home-product-grid > .sppb-addon-wrapper > div::after,
+.home-product-grid .sppb-addon-single-image::before,
+.home-product-grid .sppb-addon-single-image::after,
+#section-id-1738515770626 .home-product-grid .sppb-addon-title::before,
+#section-id-1738515770626 .home-product-grid .sppb-addon-title::after {
+  display: none;
+}
+#section-id-1738515770626 .home-product-grid .sppb-addon-title {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0;
+  padding: 0 0 20px;
+  line-height: 1.4;
+  text-align: center;
+}
+.home-product-grid .sppb-addon-content,
+.home-product-grid .sppb-addon-single-image-container,
+.home-product-grid .sppb-addon-single-image-container a,
+.home-product-grid .overlay {
+  display: block;
+  width: 100%;
+}
+.home-product-grid img {
+  display: block;
+  width: 100%;
+  aspect-ratio: 5 / 3;
+  object-fit: contain;
+}
+@media (max-width: 767px) {
+  #section-id-1738515770626 .home-product-grid {
+    grid-template-columns: minmax(0, 1fr);
+  }
+}
