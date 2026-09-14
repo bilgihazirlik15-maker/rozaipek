@@ -24,5 +24,7 @@ if (!section.includes('home-product-grid')) {
 if (!html.includes('assets/home-products.css')) html = html.replace('</head>', '<link rel="stylesheet" href="assets/home-products.css">\n</head>');
 if (!html.includes('assets/whatsapp-support.css')) html = html.replace('</head>', '<link rel="stylesheet" href="assets/whatsapp-support.css">\n</head>');
 if (!html.includes('class="whatsapp-support"')) html = html.replace('</body>', `<a class="whatsapp-support" href="https://wa.me/902128768318" target="_blank" rel="noopener noreferrer" aria-label="WhatsApp destek hattı: +90 212 876 83 18 (yeni sekmede açılır)"><i class="fab fa-whatsapp" aria-hidden="true"></i><span>WhatsApp Destek</span></a>\n</body>`);
+html = html.replace('<i class="fab fa-whatsapp" aria-hidden="true"></i>', '<img class="whatsapp-support__icon" src="assets/whatsapp.svg" width="29" height="29" alt="" aria-hidden="true">');
+html = html.replace('href="assets/whatsapp-support.css"', 'href="assets/whatsapp-support.css?v=2"');
 await fs.writeFile(file, html);
 console.log('Home products aligned in shared rows.');

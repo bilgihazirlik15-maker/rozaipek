@@ -15,7 +15,13 @@
   text-decoration: none !important;
   box-shadow: 0 4px 16px rgb(0 0 0 / 22%);
 }
-.whatsapp-support i { font-size: 29px; }
+.whatsapp-support .whatsapp-support__icon {
+  display: block;
+  flex: 0 0 29px;
+  width: 29px;
+  height: 29px;
+  filter: brightness(0) invert(1);
+}
 .whatsapp-support:hover { background: #0b703a; }
 .whatsapp-support:focus-visible { outline: 3px solid #222; outline-offset: 4px; }
 @media (max-width: 767px) {
