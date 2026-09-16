@@ -25,7 +25,9 @@ jobs:
     steps:
       - uses: actions/checkout@v6
       - name: Check local pages and assets
-        run: node scripts/check.mjs
+        run: |
+          node scripts/check.mjs
+          node scripts/check-fonts.mjs
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v4
         with:
