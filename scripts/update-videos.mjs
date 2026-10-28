@@ -15,7 +15,7 @@ const videos = [
   {id: 'e_ZNJJ2G0vk', title: 'Roza İpek ürün videosu', ratio: '16/9', width: 720},
 ];
 const content = videos.map(video => `
-  <div class="sppb-video-block sppb-embed-responsive" style="position:relative;width:100%;max-width:${video.width}px;aspect-ratio:${video.ratio};padding:0;margin:0 auto;">
+  <div class="sppb-video-block sppb-embed-responsive" style="position:relative;width:100%;max-width:${video.width}px;height:auto;flex-shrink:0;aspect-ratio:${video.ratio};padding:0;margin:0 auto;">
     <iframe class="sppb-embed-responsive-item" src="https://www.youtube.com/embed/${video.id}?rel=0" title="${video.title}" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen loading="lazy"></iframe>
   </div>`).join('\n');
 html = html.slice(0, start) + `<div id="sp-page-builder" class="sp-page-builder sppb-article-page-wrapper"><div class="page-content"><section class="sppb-section"><div class="sppb-row-container" style="display:flex;flex-direction:column;gap:40px;padding-top:20px;padding-bottom:40px;">${content}\n</div></section></div></div>` + html.slice(end);
