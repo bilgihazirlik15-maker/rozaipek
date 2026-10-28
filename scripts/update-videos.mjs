@@ -13,6 +13,7 @@ if (!end) throw new Error('Video content container is unbalanced');
 const videos = [
   {id: 'L6vBx1wLfdk', title: 'Video 1', ratio: '9/16', width: 360},
   {id: 'pSY_82GOqXo', title: 'Video 2', ratio: '9/16', width: 360},
+  {id: 'lKJ_cGCHrDg', title: 'Video 3', ratio: '9/16', width: 360},
   {id: 'e_ZNJJ2G0vk', title: 'Roza İpek ürün videosu', ratio: '16/9', width: 720},
 ];
 const content = videos.map(video => `
