@@ -16,12 +16,14 @@ const videos = [
   {id: 'lKJ_cGCHrDg', title: 'Video 3', ratio: '9/16', width: 360},
   {id: 'e_ZNJJ2G0vk', title: 'Roza İpek ürün videosu', ratio: '16/9', width: 720},
 ];
-const content = videos.map(video => `
+const renderVideo = video => `
   <div style="width:100%;">
   <h2 style="text-align:center;margin:0 0 20px;">${video.title}</h2>
   <div class="sppb-video-block sppb-embed-responsive" style="position:relative;width:100%;max-width:${video.width}px;height:auto;flex-shrink:0;aspect-ratio:${video.ratio};padding:0;margin:0 auto;">
     <iframe class="sppb-embed-responsive-item" src="https://www.youtube.com/embed/${video.id}?rel=0" title="${video.title}" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen loading="lazy"></iframe>
-  </div></div>`).join('\n');
+  </div></div>`;
+const content = `<div class="shorts-grid">${videos.slice(0, 3).map(renderVideo).join('\n')}</div>${videos.slice(3).map(renderVideo).join('\n')}`;
 html = html.slice(0, start) + `<div id="sp-page-builder" class="sp-page-builder sppb-article-page-wrapper"><div class="page-content"><section class="sppb-section"><div class="sppb-row-container" style="display:flex;flex-direction:column;gap:40px;padding-top:20px;padding-bottom:40px;">${content}\n</div></section></div></div>` + html.slice(end);
+if (!html.includes('assets/video-layout.css')) html = html.replace('</head>', '<link rel="stylesheet" href="assets/video-layout.css">\n</head>');
 await fs.writeFile(file, html);
 console.log('Shorts first, existing video below; empty video blocks removed.');

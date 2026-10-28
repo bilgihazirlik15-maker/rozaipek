@@ -1,0 +1,11 @@
+.shorts-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 24px;
+  width: 100%;
+  align-items: start;
+}
+.shorts-grid > div { min-width: 0; }
+@media (max-width: 767px) {
+  .shorts-grid { grid-template-columns: minmax(0, 1fr); gap: 32px; }
+}
