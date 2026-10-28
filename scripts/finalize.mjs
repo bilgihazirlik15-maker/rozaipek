@@ -62,3 +62,4 @@ await fs.writeFile('reports/adjustments.json',JSON.stringify({localizedFonts:[..
 console.log(`Prepared ${pages.length} pages and ${externals.size} local font assets.`);
 await import('./align-home.mjs');
 await import('./fix-fonts.mjs');
+await import('./update-videos.mjs');
