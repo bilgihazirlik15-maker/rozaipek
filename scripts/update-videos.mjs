@@ -14,7 +14,9 @@ const videos = [
   {id: 'L6vBx1wLfdk', title: 'Video 1', ratio: '9/16', width: 360},
   {id: 'pSY_82GOqXo', title: 'Video 2', ratio: '9/16', width: 360},
   {id: 'lKJ_cGCHrDg', title: 'Video 3', ratio: '9/16', width: 360},
-  {id: 'e_ZNJJ2G0vk', title: 'Roza İpek ürün videosu', ratio: '16/9', width: 720},
+  {id: 'Jaw0NbXnhFM', title: 'Uzun Video 1', ratio: '16/9', width: 720},
+  {id: '7bikmspBVTA', title: 'Uzun Video 2', ratio: '16/9', width: 720},
+  {id: 'lkDAq35n6b4', title: 'Uzun Video 3', ratio: '16/9', width: 720},
 ];
 const renderVideo = video => `
   <div style="width:100%;">
@@ -26,4 +28,4 @@ const content = `<div class="shorts-grid">${videos.slice(0, 3).map(renderVideo).
 html = html.slice(0, start) + `<div id="sp-page-builder" class="sp-page-builder sppb-article-page-wrapper"><div class="page-content"><section class="sppb-section"><div class="sppb-row-container" style="display:flex;flex-direction:column;gap:40px;padding-top:20px;padding-bottom:40px;">${content}\n</div></section></div></div>` + html.slice(end);
 if (!html.includes('assets/video-layout.css')) html = html.replace('</head>', '<link rel="stylesheet" href="assets/video-layout.css">\n</head>');
 await fs.writeFile(file, html);
-console.log('Shorts first, existing video below; empty video blocks removed.');
+console.log('Three Shorts side by side, followed by three long videos in order.');
