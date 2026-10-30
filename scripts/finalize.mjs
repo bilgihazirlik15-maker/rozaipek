@@ -27,7 +27,7 @@ const fixes={
   '/eng/eng/':'/eng/index.html','/eng/eng/contact.html':'/eng/contact.html',
   '/eng/iletisim.html':'/eng/contact.html','/eng/products/01-single-button-model.html':'/eng/products/gr01-single-button-model.html'
 };
-const pages=report.files.filter(x=>x.type.includes('text/html'));
+const pages=report.files.filter(x=>x.type.includes('text/html') && x.file !== 'eng/quality.html');
 const index=[];
 for(const p of pages){
   const file=path.join(root,p.file);let s=await fs.readFile(file,'utf8');
@@ -63,3 +63,4 @@ console.log(`Prepared ${pages.length} pages and ${externals.size} local font ass
 await import('./align-home.mjs');
 await import('./fix-fonts.mjs');
 await import('./update-videos.mjs');
+await import('./remove-quality.mjs');
