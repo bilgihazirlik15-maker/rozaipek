@@ -10,7 +10,8 @@
 }
 .language-choice img { display: block; }
 .language-choice:hover { background-color: #f1f1f1; border-color: #999; }
-.language-choice.is-active {
+.language-choice.is-active,
+.language-choice[aria-current="true"] {
   background-color: #fff0ef;
   border-color: #c0392b;
   box-shadow: 0 2px 0 #c0392b;

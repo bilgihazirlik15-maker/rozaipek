@@ -23,6 +23,7 @@ async function update(dir) {
       const css = path.posix.relative(path.posix.dirname(relative), 'assets/language-switcher.css');
       html = html.replace('</head>', `<link rel="stylesheet" href="${css}">\n</head>`);
     }
+    html = html.replace(/(href="[^"]*assets\/language-switcher\.css)(?:\?[^\"]*)?"/g, '$1?v=2"');
     await fs.writeFile(file, html);
     count++;
   }
