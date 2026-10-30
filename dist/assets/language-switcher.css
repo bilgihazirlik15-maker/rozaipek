@@ -1,0 +1,21 @@
+.language-choice {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 5px;
+  margin: 2px 3px;
+  border: 2px solid transparent;
+  border-radius: 6px;
+  transition: background-color .15s, border-color .15s;
+}
+.language-choice img { display: block; }
+.language-choice:hover { background-color: #f1f1f1; border-color: #999; }
+.language-choice.is-active {
+  background-color: #fff0ef;
+  border-color: #c0392b;
+  box-shadow: 0 2px 0 #c0392b;
+}
+.language-choice:focus-visible { outline: 3px solid #145ea8; outline-offset: 3px; }
+@media (prefers-reduced-motion: reduce) {
+  .language-choice { transition: none; }
+}

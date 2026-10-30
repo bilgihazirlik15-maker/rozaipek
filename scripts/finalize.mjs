@@ -64,3 +64,4 @@ await import('./align-home.mjs');
 await import('./fix-fonts.mjs');
 await import('./update-videos.mjs');
 await import('./remove-quality.mjs');
+await import('./update-language-switcher.mjs');
